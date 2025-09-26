@@ -1,4 +1,4 @@
-package com.esercizioColloquio.clienti_service;
+package com.esercizioColloquio;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

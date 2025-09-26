@@ -1,5 +1,6 @@
 package com.esercizioColloquio.clienti_service;
 
+import com.esercizioColloquio.ClientiServiceApplication;
 import org.springframework.boot.SpringApplication;
 
 public class TestClientiServiceApplication {
